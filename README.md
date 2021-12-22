@@ -1,2 +1,2 @@
-# ECommerce-Grocery
+# ECommerce
 https://grocery.charanquartz.me/
