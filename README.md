@@ -1,2 +1,2 @@
 # ECommerce
-https://grocery.charanquartz.me/
+https://ecommerce.charanquartz.me/
